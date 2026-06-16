@@ -1,21 +1,36 @@
-# Data Analyst Portfolio
+# 📊 Kanchar Sai Reddy — Data Analyst Portfolio
 
-Hi, I’m Sai Reddy. This portfolio showcases my data analytics projects focused on solving real-world problems using data.
+Hi, I'm Kanchar Sai Reddy, an aspiring Data Analyst passionate about turning raw data into meaningful business insights.
 
-## Skills
-- Excel
-- SQL
-- Python
-- Power BI
+I have hands-on experience in SQL, Excel, Tableau, Power BI, Python, and R Statistics, with a strong focus on data cleaning, exploratory data analysis (EDA), dashboard creation, and reporting.
 
-## Projects
-- Sales Data Analysis – Identified trends and improved decision-making
-- Customer Insights Dashboard – Built interactive dashboards
-- Data Cleaning using Python – Processed and cleaned raw datasets
+## 🚀 Technical Skills
+- Excel — Pivot Tables, VLOOKUP, Charts, Data Cleaning  
+- SQL / MySQL — Joins, Subqueries, Window Functions  
+- Tableau & Power BI — Dashboards, KPI Reporting  
+- Python — Pandas, NumPy  
+- Analytics — EDA, Reporting, Problem Solving  
 
-## Live Website
-https://saireddy-analytics.github.io/data-analyst-portfolio
+## 💼 Internship Experience
+### Data Science Intern — BR Concepts Pvt Ltd
+- Performed data cleaning and preprocessing on real-world datasets  
+- Conducted exploratory data analysis to identify business insights  
+- Worked with Python for analysis and reporting  
 
-## Contact
-- LinkedIn: (www.linkedin.com/in/sai-reddy-6b3a51366)
-- Email: (saisure72@gmail.com)
+## 📂 Featured Projects
+### 📱 Real-Time Location Monitoring & Emergency Assistance App
+- Developed Android app for GPS-based live location tracking  
+- Implemented SOS alerts and emergency notifications  
+- Integrated Maps and real-time monitoring features  
+
+### 🎬 Netflix Content Analysis (SQL + Tableau)
+- Analyzed Netflix movies and TV shows dataset  
+- Performed SQL-based data cleaning and analysis  
+- Built interactive Tableau dashboard for insights  
+
+## 🌐 Live Portfolio
+https://data-analyst-portfolio-olive.vercel.app
+
+## 📫 Contact
+- Email: saisure72@gmail.com  
+- GitHub: github.com/saireddy-analytics
