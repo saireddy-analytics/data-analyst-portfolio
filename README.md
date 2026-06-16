@@ -32,5 +32,6 @@ I have hands-on experience in SQL, Excel, Tableau, Power BI, Python, and R Stati
 https://data-analyst-portfolio-olive.vercel.app
 
 ## 📫 Contact
-- Email: saisure72@gmail.com  
-- GitHub: github.com/saireddy-analytics
+- Email: saisure72@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sai-reddy-6b3a51366
+- GitHub: [saireddy-analytics](https://github.com/saireddy-analytics)
